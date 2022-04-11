@@ -1,3 +1,5 @@
+//Given an array of integers, return the indices of the two numbers that add up to a givenm target.
+
 const arr = [1, 3, 7, 9, 2];
 const target = 11;
 let i = 0;
